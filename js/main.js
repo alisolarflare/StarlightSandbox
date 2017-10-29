@@ -31,6 +31,8 @@ function update_posts() {
             section.appendChild(tags);
 
             root.appendChild(section);
+
+            post.html = section;
         }
     }
 }
