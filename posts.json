@@ -1,6 +1,14 @@
-{
-	"Test Post": {
-		"Description": "Test post please ignore",
-		"Tags": ["Code", "Music", "Art"]
-	}
-}
+[
+    {
+        "title": "Cat looking at you",
+        "image": "cat.jpg",
+        "description": "This cat wants nothing but hugs and treats and tasty things to eat. Don't throw it into the fire. You monster.",
+        "tags": ["Pictures", "Kittens", "Secret Mind Control"]
+    },
+    {
+        "title": "Cat looking at me",
+        "image": "cat.jpg",
+        "description": "This cat wants nothing to do with YOU. You monster.",
+        "tags": ["Pictures", "Kittens", "Obvious Mind Control"]
+    }
+]
